@@ -1,6 +1,4 @@
 import json
-from datetime import datetime
-dt = datetime.now()
 
 import sqlalchemy
 from sqlalchemy.orm import sessionmaker
